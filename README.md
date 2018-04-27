@@ -8,17 +8,3 @@ Django的content-type组件
     - 使用GenericRelation查找，查找某个东西的时候，可以查出全部与之相关的内容，这个仅用于反向查找
 
 
-English document
-
-Django's content-type component
-======
-
-## content-type
-
-- A built-in component of Django that helps developers to do even table operations
-
-    - Content-type can automatically create a table to store the associated table name, which is applicable to multi-table associations
-	
-    - Provides GenericForeignKey to help us quickly insert data
-	
-    - Using GenericRelation lookup, when you find something, you can find out all the relevant content, which is only used for reverse lookup
